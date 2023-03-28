@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sudipkhatri.github.io/dailydeals/static/css/main.338abc29.css",
-    "main.js": "/sudipkhatri.github.io/dailydeals/static/js/main.81b13a3d.js",
-    "static/media/Amazon.png": "/sudipkhatri.github.io/dailydeals/static/media/Amazon.6b1fcc03bc93beb438e1.png",
-    "static/media/logo-color.png": "/sudipkhatri.github.io/dailydeals/static/media/logo-color.edb8a83ac892f6793578.png",
-    "static/media/logo-white.png": "/sudipkhatri.github.io/dailydeals/static/media/logo-white.dbc39405c53bd21400b0.png",
-    "static/media/logo-black.png": "/sudipkhatri.github.io/dailydeals/static/media/logo-black.60586a8ac51e150e9ba4.png",
-    "static/media/logoname.png": "/sudipkhatri.github.io/dailydeals/static/media/logoname.b006bbedd7ad7e9ff74e.png",
-    "static/media/close.svg": "/sudipkhatri.github.io/dailydeals/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
-    "static/media/menu.svg": "/sudipkhatri.github.io/dailydeals/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
-    "index.html": "/sudipkhatri.github.io/dailydeals/index.html",
-    "main.338abc29.css.map": "/sudipkhatri.github.io/dailydeals/static/css/main.338abc29.css.map",
-    "main.81b13a3d.js.map": "/sudipkhatri.github.io/dailydeals/static/js/main.81b13a3d.js.map"
+    "main.css": "/dailydeals/static/css/main.338abc29.css",
+    "main.js": "/dailydeals/static/js/main.2a030274.js",
+    "static/media/Amazon.png": "/dailydeals/static/media/Amazon.6b1fcc03bc93beb438e1.png",
+    "static/media/logo-color.png": "/dailydeals/static/media/logo-color.edb8a83ac892f6793578.png",
+    "static/media/logo-white.png": "/dailydeals/static/media/logo-white.dbc39405c53bd21400b0.png",
+    "static/media/logo-black.png": "/dailydeals/static/media/logo-black.60586a8ac51e150e9ba4.png",
+    "static/media/logoname.png": "/dailydeals/static/media/logoname.b006bbedd7ad7e9ff74e.png",
+    "static/media/close.svg": "/dailydeals/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
+    "static/media/menu.svg": "/dailydeals/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
+    "index.html": "/dailydeals/index.html",
+    "main.338abc29.css.map": "/dailydeals/static/css/main.338abc29.css.map",
+    "main.2a030274.js.map": "/dailydeals/static/js/main.2a030274.js.map"
   },
   "entrypoints": [
     "static/css/main.338abc29.css",
-    "static/js/main.81b13a3d.js"
+    "static/js/main.2a030274.js"
   ]
 }
