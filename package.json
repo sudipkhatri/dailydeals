@@ -1,6 +1,6 @@
 {
   "name": "dailydeals",
-  "website" : "",
+  "homepage": "https://sudipkhatri.github.io/dailydeals/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
